@@ -9,3 +9,7 @@ A sandbox for learning Git and GitHub.
 - Troubleshooting guides
 - On-call documentation
 - Integration examples
+
+## Team notes
+
+This section was added by another teammate.
